@@ -9,7 +9,7 @@
 ### Contact with me:
 
 [<img aligh="left" alt="My instagram profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="My Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]My Email
+[<img align="left" alt="My Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]ostapdoroshenko.o.o@gmail.com
 
 
 
